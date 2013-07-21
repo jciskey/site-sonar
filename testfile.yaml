@@ -1,0 +1,14 @@
+[
+ {
+  url: "http://sleeplesshacker.com",
+  status_code: 200
+ },
+ {
+  url: "http://sleeplesshacker.com/non-existent-url",
+  status_code: 200
+ },
+ {
+  url: "http://sleeplesshacker.com/non-existent-url-404",
+  status_code: 404
+ }
+]
