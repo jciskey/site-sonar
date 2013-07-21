@@ -44,9 +44,9 @@ YAML file
 ### Requirements ###
 site-sonar is developed on Python 2.7, with the following libraries:
 
-PyYAML==3.10
-argparse==1.2.1
-requests==1.2.3
-wsgiref==0.1.2
+* PyYAML==3.10
+* argparse==1.2.1
+* requests==1.2.3
+* wsgiref==0.1.2
 
 If you get it to work using other combinations, feel free to let me know and I'll put up a note about it.
