@@ -3,7 +3,7 @@ site-sonar
 
 ## An Automated Site-Active Checker ##
 
-Every client thinks they're the center of the universe and get mad at the slightest downtime, but as developers we can't afford to sit around and click "refresh" on every site we've deployed just to make sure it's still up. site-sonar is a simple tool to allow you to automatically ping a URL and verify that it is active.
+Every client thinks they're the center of the universe and get mad at the slightest downtime, but as developers we can't afford to sit around and click "refresh" on every site we've deployed just to make sure it's still up. site-sonar is a simple tool to allow you to automatically ping a URL and verify that it is active, so you can have peace of mind that your sites are still serving and focus on new projects.
 
 By default, site-sonar considers any response aside from a Status Code 200 to be a failure. This is normally what is desired, but it is customizable by passing in a settings file.
 
